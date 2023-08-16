@@ -1,0 +1,220 @@
+[
+    {
+        "id": "Ajax Pino 1L",
+        "titulo": "Ajax Pino 1L",
+        "imagen": "./img/HOMECARE/ajax_pino.jpg",
+        "categoria": {
+            "nombre": "HOME CARE",
+            "id": "HOMECARE"
+        },
+        "precio": 19
+    },
+    {
+        "id": "Suavitel Azul 1L",
+        "titulo": "Suavitel Azul 1L",
+        "imagen": "./img/HOMECARE/suavitel_azul.jpg",
+        "categoria": {
+            "nombre": "HOMECARE",
+            "id": "HOMECARE"
+        },
+        "precio": 24
+    },
+    {
+        "id": "Lavaplatos Axion 425g",
+        "titulo": "Lavaplatos Axion 425g",
+        "imagen": "./img/HOMECARE/lavaplatos_axion.JPG",
+        "categoria": {
+            "nombre": "HOMECARE",
+            "id": "HOMECARE"
+        },
+        "precio": 37
+    },
+    {
+        "id": "Ajax Mascotas 1L",
+        "titulo": "Ajax Mascotas 1L",
+        "imagen": "./img/HOMECARE/ajax_mascota.JPG",
+        "categoria": {
+            "nombre": "HOMECARE",
+            "id": "HOMECARE"
+        },
+        "precio": 26
+    },
+  
+    
+
+
+    {
+        "id": "Pasta de Dientes Triple Acción 150 ml",
+        "titulo": "Pasta de Dientes Triple Acción 150 ml",
+        "imagen": "./img/ORALCARE/pasta_dientes_triple_accion.jpg",
+        "categoria": {
+            "nombre": "ORAL CARE",
+            "id": "ORALCARE"
+        },
+        "precio": 45
+    },
+    {
+        "id": "Pasta de Dientes Luminous White 125 ml",
+        "titulo": "Pasta de Dientes Luminous White 125 ml",
+        "imagen": "./img/ORALCARE/pasta_dientes_luminous.jpg",
+        "categoria": {
+            "nombre": "ORALCARE",
+            "id": "ORALCARE"
+        },
+        "precio": 60
+    },
+    {
+        "id": "Pasta de Dientes Carbón Activado 125 ml",
+        "titulo": "Pasta de Dientes Carbón Activado 125 ml",
+        "imagen": "./img/ORALCARE/pasta_dientes_carbon.jpg",
+        "categoria": {
+            "nombre": "ORALCARE",
+            "id": "ORALCARE"
+        },
+        "precio": 69
+    },
+    {
+        "id": "Pasta de Dientes Sensibilidad Dental",
+        "titulo": "Pasta de Dientes Sesibilidad Dental",
+        "imagen": "./img/ORALCARE/pasta_dientes_sensitive.JPG",
+        "categoria": {
+            "nombre": "ORALCARE",
+            "id": "ORALCARE"
+        },
+        "precio": 63
+    },
+    {
+        "id": "Gel Dental-Ortodóntico",
+        "titulo": "Gel Dental-Ortodóntico",
+        "imagen": "./img/ORALCARE/gel_ortodoncia.JPG",
+        "categoria": {
+            "nombre": "ORALCARE",
+            "id": "ORALCARE"
+        },
+        "precio": 120
+    },
+    
+
+
+
+    {
+        "id": "Crema para Peinar",
+        "titulo": "Crema para Peinar",
+        "imagen": "./img/PERSONALCARE/crema_para_peinar.JPG",
+        "categoria": {
+            "nombre": "PERSONAL CARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 15
+    },
+    {
+        "id": "Jabon Corporal",
+        "titulo": "Jabon Corporal ",
+        "imagen": "./img/PERSONALCARE/jabon_corporal.JPG",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 12
+    },
+    {
+        "id": "Jabon Corporal para Bebé",
+        "titulo": "Jabon Corporal para Bebé",
+        "imagen": "./img/PERSONALCARE/jabon_corporal_bebe.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 24
+    },
+    {
+        "id": "Shampoo Caprice 750 ml",
+        "titulo": "Shampoo Caprice 750 ml",
+        "imagen": "./img/PERSONALCARE/Shampoo_caprice.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 35
+    },
+    {
+        "id": "Crema Corporal 400 ml",
+        "titulo": "Crema Corporal 400 ml",
+        "imagen": "./img/PERSONALCARE/crema_corporal.JPG",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 42
+    },
+    {
+        "id": "Babywipes 80pz",
+        "titulo": "Babywipes 80pz",
+        "imagen": "./img/PERSONALCARE/baby_wipes.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 39
+    },
+    {
+        "id": "Talco para Bebé",
+        "titulo": "Talco para Bebé",
+        "imagen": "./img/PERSONALCARE/talco_bebe.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 50
+    },
+    {
+        "id": "Anti-transpirante en Barra Women",
+        "titulo": "Anti-transpirante en Barra Women",
+        "imagen": "./img/PERSONALCARE/antitranspirante_women.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 37
+    },
+    {
+        "id": "Anti-transpirante en Gel Men",
+        "titulo": "Anti-transpirante en Gel Men",
+        "imagen": "./img/PERSONALCARE/antitranspirante_gel_men.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 41
+    },
+    {
+        "id": "Acondicionador para Cabello-Dermoprotect",
+        "titulo": "Acondicionador para Cabello-Dermoprotect",
+        "imagen": "./img/PERSONALCARE/acondicionador_dermo.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 31
+    },
+    {
+        "id": "Crema de Manos con Antibacterial",
+        "titulo": "Crema de Manos con Antibacterial",
+        "imagen": "./img/PERSONALCARE/crema_manos_anti.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 25
+    },
+    {
+        "id": "Desodorante En Aerosol Stefano",
+        "titulo": "Desodorante En Aerosol Stefano",
+        "imagen": "./img/PERSONALCARE/desodorante_stefano.jpg",
+        "categoria": {
+            "nombre": "PERSONALCARE",
+            "id": "PERSONALCARE"
+        },
+        "precio": 47
+    }
+]
